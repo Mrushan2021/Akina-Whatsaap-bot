@@ -146,8 +146,10 @@ The user is responsible.
 
 ### Simple Method
 
+#### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/PYMaster-ft/Akina)](https://replit.com/@AnujaSupulsara/Akina-QR-Code?v=1)
 
+#### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PYMaster-ft/Akina)
 
 ### The Hard Method
@@ -197,3 +199,16 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+    
+# Akina
+#Akina
+<div align="center">
+  <img border-radius: 16px src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="100" height="100"/>
+  
+  </a>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Thank+you+all+Iam+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
+  
+    
+    
