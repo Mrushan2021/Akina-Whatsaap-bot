@@ -147,7 +147,9 @@ The user is responsible.
 
 # Akina Create video
 <p align="center">
-<a href="https://www.youtube.com/watch?v=nZANnGk5_B8"><img title="Youtube" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>  
+<a href="https://www.youtube.com/watch?v=nZANnGk5_B8"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-VIDEO-ft/Akina?color=blue&style=for-the-badge&logo=youtube"></a>  
+ 
+ 
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
