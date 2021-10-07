@@ -116,6 +116,8 @@ The user is responsible.
 
 <div align="center">
   <img src="https://telegra.ph/file/23fdfc1f84ca6fe23e178.jpg" width="200" height="200">
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Iam+Akina&font=Fira%20Code&center=true&width=380&height=50">
   <h1>🐺 Akina 🌹</h1>
 </div>
 <p align="center">
