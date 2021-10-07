@@ -153,6 +153,7 @@ The user is responsible.
 
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/PYMaster-ft/Akina)](https://replit.com/@AnujaSupulsara/Akina-QR-Code?v=1)
+[![Run on Repl.it](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYi9FZITvuy41mpigw8k1hdhZQxSlsm9VtFi5JcIUMBdLTOi8Kflhld9p1U1w962qp5I&usqp=CAU)](https://replit.com/@AnujaSupulsara/Akina-QR-Code?v=1)
 
 [![Run on Repl.it](https://pngimage.net/wp-content/uploads/2018/06/scan-qr-code-png-1.png)](https://replit.com/@AnujaSupulsara/Akina-QR-Code?v=1)
    
