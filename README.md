@@ -145,6 +145,8 @@ The user is responsible.
 ## 🔎 What is WhatsAsena?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
 
+# Akina Create video
+[![https://www.youtube.com/watch?v=nZANnGk5_B8](https://www.youtube.com/watch?v=nZANnGk5_B8)](https://www.youtube.com/watch?v=nZANnGk5_B8)   
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
