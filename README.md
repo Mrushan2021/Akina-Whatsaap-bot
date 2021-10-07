@@ -200,12 +200,13 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
     
-#Thank you all for using Akina
+    
+##Thank you all for using Akina
     
 <div align="center">
   <img border-radius: 16px src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="100" height="100"/>
   
-    </a>
+   💞🎧 N . ₳ⁿuʝα Supulsara 🎧💞
   සියල්ල අත් නොහැර , සියල්ල අත්හැරෙන බව දැනගෙන ජීවත් වෙන්න 🙂✊
 
   </a>
