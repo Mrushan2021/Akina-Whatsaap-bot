@@ -227,5 +227,5 @@ This project is protected by `GNU General Public Licence v3.0` license.
  
  <p align="center">
 <a href="https://t.me/Anujasupulsara"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
-    
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Contact+by+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
