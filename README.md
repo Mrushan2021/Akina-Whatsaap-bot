@@ -215,5 +215,9 @@ This project is protected by `GNU General Public Licence v3.0` license.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+all+for+using+Akina&font=Fira%20Code&center=true&width=380&height=50">
   
+  
+  #### වැඩි විස්තර සඳහා
+[![Whatsapp](http://wa.me/)](http://wa.me/94712289566)
+  
     
     
