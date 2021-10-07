@@ -1,7 +1,13 @@
 # Akina
 #Akina
 <div align="center">
-  <img border-radius: 16px src="https://telegra.ph/file/23fdfc1f84ca6fe23e178.jpg" width="100" height="100"/>
+  <img border-radius: 16px src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="100" height="100"/>
+  
+  </a>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
+  
   <p align="center">
 <a href="#"><img title="Akina" src="https://img.shields.io/badge/Akina-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
