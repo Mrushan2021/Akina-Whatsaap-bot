@@ -154,6 +154,8 @@ The user is responsible.
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/PYMaster-ft/Akina)](https://replit.com/@AnujaSupulsara/Akina-QR-Code?v=1)
 
+[![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@AnujaSupulsara/Akina-QR-Code?v=1)
+   
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PYMaster-ft/Akina)
 
