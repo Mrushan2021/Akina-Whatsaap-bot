@@ -217,7 +217,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
   
   
   #### වැඩි විස්තර සඳහා
-[![Whatsapp](http://wa.me/)](http://wa.me/94712289566)
+[![Whatsapp](http://wahatsapp)](http://wa.me/94712289566)
   
     
     
