@@ -217,7 +217,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
   
   
   #### වැඩි විස්තර සඳහා
-[![Whatsapp](http://wahatsapp)](http://wa.me/94712289566)
-  
+ <p align="center">
+<a href="http://wa.me/94712289566"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
     
     
