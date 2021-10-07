@@ -158,6 +158,8 @@ The user is responsible.
    
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PYMaster-ft/Akina)
+   
+[![Deploy](https://spreecommerce.org/wp-content/uploads/2021/01/heroku-button-300x166.png)](https://heroku.com/deploy?template=https://github.com/PYMaster-ft/Akina)
 
 ### The Hard Method
 ```js
