@@ -155,7 +155,7 @@ The user is responsible.
   </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Akina+Code+by+Chamidu&font=Fira%20Code&center=true&width=380&height=50">
  
 ## Setup
 ### Very Simple Method
