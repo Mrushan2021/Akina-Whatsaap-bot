@@ -148,8 +148,8 @@ The user is responsible.
 # Akina Create video
 <p align="center">
 <a href="https://www.youtube.com/watch?v=nZANnGk5_B8"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-VIDEO-ft/Akina?color=blue&style=for-the-badge&logo=youtube"></a>  
- > [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=nZANnGk5_B8&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
-
+ 
+ ###සම්පූර්ණ සිංහල 
 > [![සම්පූර්ණ සිංහල Tutorial](https://i.ytimg.com/vi/nZANnGk5_B8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-qEYdUKnfFdbpecvpRj9p1KmejA.jpg)](https://www.youtube.com/watch?v=nZANnGk5_B8)
  
 ## Setup
