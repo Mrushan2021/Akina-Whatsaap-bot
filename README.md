@@ -153,7 +153,7 @@ The user is responsible.
 > [![සම්පූර්ණ සිංහල Tutorial](https://i.ytimg.com/vi/nZANnGk5_B8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-qEYdUKnfFdbpecvpRj9p1KmejA.jpg)](https://www.youtube.com/watch?v=nZANnGk5_B8)
  
  <p align="center">
-  
+ <img src="https://readme-typing-svg.herokuapp.com/?
   lines=Akina+Code+by+Chamidu&font=Fira%20Code&center=true&width=380&height=50">
  
 ## Setup
