@@ -168,6 +168,12 @@ The user is responsible.
 
 [![Run on Repl.it](https://pngimage.net/wp-content/uploads/2018/06/scan-qr-code-png-1.png)](https://replit.com/@AnujaSupulsara/Akina-QR-Code?v=1)
    
+Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
+ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
+පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
+``` 
+ 
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PYMaster-ft/Akina)
    
