@@ -233,7 +233,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
     
     
 <div align="center">
-  <img border-radius: 16px src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="100" height="100"/>
+  <img border-radius: 16px src="https://telegra.ph/file/74a923d2c942c90bafda6.mp4" width="100" height="100"/>
   
    💞🎧 N . ₳ⁿuʝα Supulsara 🎧💞
   
