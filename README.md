@@ -231,10 +231,11 @@ This project is protected by `GNU General Public Licence v3.0` license.
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
     
     
-    
-<div align="center">
-  <img border-radius: 16px src="https://telegra.ph/file/e89e47c0257589bbcb460.jpg" width="100" height="100"/>
-  
+   
+ <div align="center">
+  <img src="https://telegra.ph/file/e89e47c0257589bbcb460.jpg" width="250" height="250">
+ 
+ 
    💞🎧 N . ₳ⁿuʝα Supulsara 🎧💞
   
   
