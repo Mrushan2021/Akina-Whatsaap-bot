@@ -253,21 +253,7 @@ $ node bot.js
 |       ✅        |   Broadcast                      |
 
 
-### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/PYMaster-ft/Akina)](https://replit.com/@cham2003/Akina-QR-code-whatsapp?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Black-Hunters/BlackAkina)
-
-### The Hard Method
-```js
-$ git clone https://github.com/PYMaster-ft/Akina.git
-$ cd Akina
-$ npm i
-$ nano Config.env
-// Config.env create and edit.
-$ node bot.js
-```
 
 
 
