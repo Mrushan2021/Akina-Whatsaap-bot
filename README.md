@@ -135,15 +135,6 @@ The user is responsible.
 ----
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
-## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
-
-> [New support & help group.](https://t.me/asenaremaster) (New)
-
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
-
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
 
 # Akina Create video
 <p align="center">
@@ -188,6 +179,97 @@ $ nano Config.env
 // Config.env create and edit.
 $ node bot.js
 ```
+
+## 📢 Guide
+> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
+
+> [New support & help group.](https://t.me/asenaremaster) (New)
+
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+
+## 🔎 What is WhatsAsena?
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+
+## Setup
+### Very Simple Method
+`Soon as Possible...`
+
+## Features
+
+| Sticker Creator |                Feature           |
+| :-----------: | :--------------------------------: |
+|       ✅       | Send Photo with Caption          |
+|       ✅       | Reply A Photo                    |
+|       ✅       | Image Url                        |
+|       ✅       | Send Video or GIF with Caption   |
+
+
+| Downloader |                     Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   YouTube mp3/mp4 Downloader                    |
+|       ❌        |   Doujin Downloader         |
+|       ✅        |   Instagram Video/Image Downloader                  |
+|       ✅        |   Facebook Video Downloader                  |
+
+
+| Other  |                     Feature                     |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Get a random meme             |
+|       ✅        |   Text to speech                |
+|       ✅        |   Get a random waifu images     |
+|       ✅        |   Get a random quotes           |
+|       ✅        |   Get a random anime quotes     |
+|       ✅        |   Get info gempa from BMKG      |
+|       ✅        |   Weather's report's     |
+|       ✅        |   Wikipedia                 |
+|       ✅        |   Anime searcher    |
+|       ✅        |   Get a random cat images       |
+|       ✅        |   Get a random dog images       |
+|      And        |   Others...                     |
+
+
+| Group Only  |                     Feature                     |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Promote User                  |
+|       ✅        |   Demote User                   |
+|       ✅        |   Kick User                     |
+|       ✅        |   Add User                      |
+|       ✅        |   Mention All User              |
+|       ✅        |   Get link group                |
+|       ✅        |   Get Admin list                |
+|       ✅        |   Get owner group               |
+|       ✅        |   enable or disable nsfw command|
+|       ✅        |   enable or disable welcome feature|
+
+
+| Owner Group Only  |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Kick All Member Group                 |
+
+| Owner Bot Only  |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   leave all group                   |
+|       ✅        |   clear all message                 |
+|       ✅        |   Broadcast                      |
+
+
+### Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/PYMaster-ft/Akina)](https://replit.com/@cham2003/Akina-QR-code-whatsapp?v=1)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Black-Hunters/BlackAkina)
+
+### The Hard Method
+```js
+$ git clone https://github.com/PYMaster-ft/Akina.git
+$ cd Akina
+$ npm i
+$ nano Config.env
+// Config.env create and edit.
+$ node bot.js
+```
+
+
 
 ## 🚀F.A.Q
 නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු..;
