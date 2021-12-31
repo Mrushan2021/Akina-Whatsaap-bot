@@ -302,7 +302,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
     
    
  <div align="center">
-  <img src="https://telegra.ph/file/1cc12e6c4366f17c36b72.jpg" width="250" height="250">
+  <img src="https://i.ibb.co/1nGBNb4/d171d86c8c85.jpg" width="250" height="250">
  
  
    ✫ MR USHAN ♔
