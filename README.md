@@ -6,7 +6,7 @@
   </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MR+USHAN&font=Fira%20Code&center=true&width=380&height=50">
  
   
   <p align="center">
@@ -302,7 +302,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
     
    
  <div align="center">
-  <img src="https://telegra.ph/file/e89e47c0257589bbcb460.jpg" width="250" height="250">
+  <img src="https://telegra.ph/file/1cc12e6c4366f17c36b72.jpg" width="250" height="250">
  
  
    💞🎧 N . ₳ⁿuʝα Supulsara 🎧💞
