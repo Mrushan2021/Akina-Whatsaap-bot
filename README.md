@@ -1,7 +1,7 @@
 # Akina
 #Akina
 <div align="center">
- <img src="https://telegra.ph/file/1cc12e6c4366f17c36b72.jpg" width="250" height="250">
+ <img src="https://telegra.ph/file/1cc12e6c4366f17c36b72.jpg" width="300" height="300">
   
   </a>
              
@@ -308,7 +308,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
    ✫ MR USHAN ♔
   
   
- ####║PROGRAMMER  ║STUDENT @ CYBER SECURITY - SLYNCA ║ ▁▂▃▄ERROR 
+ ║PROGRAMMER  ║STUDENT @ CYBER SECURITY - SLYNCA ║ ▁▂▃▄ERROR 
 ـــــہــــــAℓone❥ــ٨ـ
 
   </a>
