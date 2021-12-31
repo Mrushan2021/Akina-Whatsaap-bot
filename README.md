@@ -1,7 +1,7 @@
 # Akina
 #Akina
 <div align="center">
- <img src="https://telegra.ph/file/492ecf8972eea2af1dda0.jpg" width="250" height="250">
+ <img src="https://telegra.ph/file/1cc12e6c4366f17c36b72.jpg" width="250" height="250">
   
   </a>
              
